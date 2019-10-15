@@ -419,5 +419,5 @@
 ### Mariah Rockwell
 - Photo: https://tinyurl.com/y4fga4kw
 - Location: Midwest City, Oklahoma
-- Bio: Software Engineer and budding Parselcoder
+- Bio: Software Engineer and newbie Parselcoder
 - Github: https://github.com/wendystonegood
