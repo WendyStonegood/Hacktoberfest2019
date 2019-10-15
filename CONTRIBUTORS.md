@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mariah Rockwell
+- Photo: https://tinyurl.com/y4fga4kw
+- Location: Midwest City, Oklahoma
+- Bio: Software Engineer and budding Parselcoder
+- Github: https://github.com/wendystonegood
